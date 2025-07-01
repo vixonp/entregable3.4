@@ -1,5 +1,4 @@
-# Proyecto Sistemas Distribuidos - Entrega 2: Procesamiento Distribuido con Pig
-
+# Proyecto Sistemas Distribuidos - Entrega 3: Integración Elastic/Kibana
 **Autores**: Lucas Vicuña, Vicente Silva
 
 **Profesor**: Nicolás Hidalgo
@@ -21,6 +20,7 @@ Esta segunda entrega expande el sistema distribuido de análisis de eventos de t
 - **Selenium** (web scraping)
 - **Pandas** (manipulación de datos)
 - **Matplotlib** (visualizaciones)
+- **elasticSearch (visualización)
 
 ## Instalación y ejecución
 
